@@ -1,7 +1,7 @@
 #  Hola y bienvenido a mi perfil :sparkles:
 
 <div align= "rigth">Soy una desarrolladora FullStack Junior en constante formación :seedling:</div> 
-:bulb: creativa y artistica :art:
+:bulb: creativa y artistica :art: y adaptable
  
 ## 💻 Tech Stack:
 ### Languages
